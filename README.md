@@ -1,4 +1,4 @@
 # devrecord
-開発、学習の日記
+records of studies
 
-## Linuxサーバーの勉強  
+## Learning linux server  
