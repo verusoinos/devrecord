@@ -1,4 +1,3 @@
-# devrecord
-records of studies
-
-## Learning linux server  
+# portfolio  
+- about  
+- todo app  
